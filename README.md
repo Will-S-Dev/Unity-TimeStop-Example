@@ -10,8 +10,3 @@ How to Use
 -Open with Unity
 
 -Use WASD to move around, Right click to Shoot, and Q to Stop Time
-
-License
--------
-
-[MIT](LICENSE.md)
